@@ -1,6 +1,6 @@
 # 🎓 University Course Management System
 
-## 📌 Project Title
+## 📌 Project Title Final Project ✨
 
 **University Course Management System – SQL Final Project**
 
